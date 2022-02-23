@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Great robbery in the west, or, The Innkeeper turned highwayman a perfect narrative how an innkeeper neer Exeter ... lately robbed the Exeter-carrier of six hundrend pounds in money and for this same were executed at the said city the 13th of this instant August, 1678 ... ; to which is added, Sad news from Gloucester-shire, being a relation how a lion at Winchcomb devoured its keeper ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41941</idno>
+            <idno type="STC">Wing G1749</idno>
+            <idno type="STC">ESTC R43216</idno>
+            <idno type="EEBO-CITATION">27025223</idno>
+            <idno type="OCLC">ocm 27025223</idno>
+            <idno type="VID">109920</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109920)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1718:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Great robbery in the west, or, The Innkeeper turned highwayman a perfect narrative how an innkeeper neer Exeter ... lately robbed the Exeter-carrier of six hundrend pounds in money and for this same were executed at the said city the 13th of this instant August, 1678 ... ; to which is added, Sad news from Gloucester-shire, being a relation how a lion at Winchcomb devoured its keeper ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for L.C.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained, with print show-through and loss of text.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barnes, John, d. 1678.</term>
+               <term>Brigands and robbers --  England.</term>
+               <term>Executions and executioners --  England.</term>
+               <term>Lion attacks --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109920:1" rendition="simple:additions"/>
+            <p>THE Great Robbery in the <hi>Weſt:</hi> OR, THE INN-KEEPER TURN'D HIGHWAY-MAN.</p>
+            <p>A perfect NARRATIVE HOW An Innkeeper neer <hi>EXETER,</hi> Drawing in two others into his Confederacy, Lately Robbed the <hi>Exeter</hi>-Carrier of Six hundred pounds in Money, and for the ſame were Executed at the ſaid City the 13th of this inſtant <hi>Auguſt,</hi> 1678.</p>
+            <p>With the remarkable Speech of the ſaid Inn-keeper on the Ladder.</p>
+            <p>To which is added, Sad News from <hi>Gloceſter-ſhire:</hi> Being a Relation how a Lion at <hi>Winchcomb</hi> devoured its Keeper, and the manner of the ſaid Lions being kill'd for the ſame.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>L. C.</hi> 1678.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:109920:2"/>
+            <pb n="3" facs="tcp:109920:2"/>
+            <head>THE Great Robbery In the WEST, <hi>&amp;c.</hi>
+            </head>
+            <p>THe Aſſizes for the County of <hi>Devon</hi> were held at <hi>Exeter,</hi> the 5th, 6th, <hi>&amp;c.</hi> of this inſtant <hi>Auguſt,</hi> where among many Malefactors tryed, there happened this remarkable paſſage; One <hi>John Barnes,</hi> who lately kept the <hi>Black-horſe</hi> Inn near <hi>South-gate</hi> in the ſaid City, who had lived there in good repute for many years, increaſed by a formal Hypocriſie, he being a great pretender to Religion, and a conſtant frequenter of Private Meetings, did about a year ago leave that place, and took an Inn in <hi>Collumpton,</hi> a Town about ten Miles diſtant from <hi>Exeter,</hi> but in the ſame County; where being more out of the ſight of his former Acquaintance, he began to drop that Religious
+<pb n="4" facs="tcp:109920:3"/>Mask which before he had worn, and now ad<g ref="char:EOLhyphen"/>ventured to ſin bare-fac'd, by ſeveral extravagant courſes running himſelf behind hand as to his Eſtate, and particularly became pretty conſidera<g ref="char:EOLhyphen"/>bly Indebted to a Smith in <hi>Collumpton</hi> aforeſaid, to whom having often promiſed payment, and as often failed him, at laſt, about three Months ſince, being again importuned for his Money, this de<g ref="char:EOLhyphen"/>vout Inn-keeper having obſerved him to be a-ſtout fellow of good natural Courage, and at preſent mean and neceſſitous, took upon him the Devils Office to tempt him to be a partner with him in his wickedneſs, telling him, <hi>That if he would go with him ſuch a day, and be ſecret, he would not only pay him all his Money, but make him a Man for ever.</hi> In ſhort, the Devil furniſht him with ſuch plauſible Arguments, (as commonly a little Rhetorick ſerves to perſwade us to be wicked) That he not only prevailed with him, but alſo with a Neighbouring Worſted-comber to joyn with him in his evil deſign; and being all three Confederated, he knowing by his old Acquain<g ref="char:EOLhyphen"/>tance &amp; obſervation, when the <hi>Exeter</hi> Carrier had a great Charge of Money to convey up to <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> they at a convenient place, called <hi>Honiton-Hill,</hi> ſet upon his Men, and took from them no leſs than Six Hundred pounds in ready Money. This luſty Booty incouraged our two freſh-men in the Myſtery of Padding, and they began extreamly well to like their new Trade; but <hi>ſweet Meat muſt
+<pb n="5" facs="tcp:109920:3"/>have ſowr Sawce;</hi> the Carryers Men knowing them by ſight, though ſo diſcreet not to take notice du<g ref="char:EOLhyphen"/>ring the Robbery, which had been but to tempt them to add Murder to Theft, they were all Three in ſhort time after apprehended, and committed to Goal, where by the Inn-keepers Advice, and his fellow Priſoners skill, they got off their Fet<g ref="char:EOLhyphen"/>ters, or ſo much of them, that they broke the Priſon by Night, and got abroad; nor has one of them been ſince heard of: but the other two not being able abſolutely to clear themſelves of their Irons, were re-taken the next Morning. He that was re-taken with the Inn-keeper, was al<g ref="char:EOLhyphen"/>ways very penſive, bewailing his condition, be<g ref="char:EOLhyphen"/>ing the firſt time, as he proteſted, that he was ever concerned in ſuch an unjuſt Action, and blaming him, whoſe curſed perſwaſions and inſinuations had, contrary to his own inclinations, brought him to it; but the Inn-keeper carried it very confident<g ref="char:EOLhyphen"/>ly till his Tryal, where they were both found Guilty, the Evidence being clear and poſitive againſt them. There were many Women of Qua<g ref="char:EOLhyphen"/>lity in <hi>Exeter,</hi> that made great Interceſſion for the ſaid Inn-keeper to get him a Reprieve, not ſo much for his ſake, as out of Charity to his poor innocent Wife and Children, for the was gene<g ref="char:EOLhyphen"/>rally reputed a very good, Careful, Induſtrious, and Pious Woman, and hath no leſs than Nine very hopeful Children; but the nature of his Crime excluded him from Mercy in this World, ſo that
+<pb n="6" facs="tcp:109920:4"/>he and his Comrade were on Tueſday the thirteenth of this inſtant <hi>Auguſt,</hi> conveyed to the uſual place of Execution, where there were two that preſenly ſuffered; but the Inn-keeper deſiring two hours time, the better to prepare himſelf, had it granted, which he ſpent in Prayer and godly Con<g ref="char:EOLhyphen"/>ference with ſeveral Miniſters; then coming upon the Ladder, he made a large Speech, wherein firſt <hi>He confeſſed not only the Crime for which at pre<g ref="char:EOLhyphen"/>ſent he ſuffered, but likewiſe divers other ſins, and particularly lamented that of Hypocriſie, earneſt<g ref="char:EOLhyphen"/>ly begging the Spectators Prayers, and exhorting them not to deſpair in any condition, but truſt to the providence of God, rather than to take any indirect courſes to ſupply their ſeeming neceſſities, acknowledging that his failing herein, had brought him to this untimely end.</hi> And ſo with all the out<g ref="char:EOLhyphen"/>ward marks of a ſincere Penitent, ſubmitted to his Sentence, and was Executed.</p>
+            <p>I think we may not improperly number High<g ref="char:EOLhyphen"/>way-men amongſt Beaſts of Prey, and therefore conceive it will be no great abſurdity, if we adde here the Relation of a ſad Accident that happened in <hi>Gloceſter-ſhire.</hi> About the beginning of this inſtant <hi>Auguſt,</hi> there came to the Burough of <hi>Winchcomb</hi> an Itinerant Family, conſiſting of a Man and his Wife, a Boy about a dozen years old, a Lion, and an Ape; which two laſt Creatures they daily expoſed to the view of all ſuch as had
+<pb n="7" facs="tcp:109920:4"/>the curioſity to ſpend their pence. But whilſt they remained there, the Boy whoſe office it was to tend them, going one day to feed them, paſſed by the Lion, and went and gave the Ape his Com<g ref="char:EOLhyphen"/>mons firſt; which ſo far affronted the Royal Ani<g ref="char:EOLhyphen"/>mal, that in a rage he ſeized on the Youth with his paws, who ſchreek'd out in a lamentable manner; but before any could come in to his reſcue, the Lion had got his head into his mouth, and bit and cruſht him to death; and alſo had ſuckt all the blood out of his body. Nor had the Ape, for all their old familiarity, ſped much better, if he had not got up by the wall out of his reach. The Coroner having view'd the Lads Corpſe, there was an order for the Lion to be kill'd; which was ac<g ref="char:EOLhyphen"/>cordingly executed with great ſolemnity, being ſhot to death in the preſence of many hundreds of people.</p>
+            <p>In this inſtance we may ſee the rage and fury of theſe Creatures, and that though they ſeem ne<g ref="char:EOLhyphen"/>ver ſo tame and gentle, yet on the leaſt diſguſt their natural fierceneſs returns. So it is with men in a natural eſtate, they may appear much Civiliz'd by Education, but if Grace have not made a through Change in the heart, the ſmalleſt occaſion or tem<g ref="char:EOLhyphen"/>ptation ſhall revive and diſcover their lurking Cor<g ref="char:EOLhyphen"/>ruptions. And this let us remember, 'tis from the ſin of Man that the ſtrongeſt Beaſts which before reverenc'd and obey'd him, do now preſume to
+<pb n="8" facs="tcp:109920:5"/>ſeize upon and deſtroy him: it being but juſt, that he who prov'd a Traytor to the King of Kings, ſhould forfeit his Soverainty over the Creatures, and that they ſhould rebel againſt Him, as he has done againſt God.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
